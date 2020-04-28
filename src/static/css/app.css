@@ -1,0 +1,26 @@
+.preview_img {
+  background:aliceblue;
+}
+
+.source_thumb{
+	width:16px;
+	height:16px;
+	border-radius:290486px;
+	vertical-align:middle;
+}
+
+.thumb_title{
+	vertical-align:middle;
+}
+
+@media screen and (max-width: 768px){
+	.media {
+	    display: block;
+	}
+}
+
+
+.has-background-hot {
+    background-color: rgb(245, 248, 250) !important;
+
+}
